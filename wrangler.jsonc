@@ -9,5 +9,17 @@
             "/api/*"
         ],
         "directory": "dist/"
-    }
+    },
+    "r2_buckets": [
+        {
+            "binding": "BUCKET",
+            "bucket_name": "get-waifu"
+        }
+    ],
+    "d1_databases": [
+        {
+            "binding": "DB",
+            "database_id": "0f88f36d-a73d-4546-bcb6-b52879939ae5"
+        }
+    ]
 }
