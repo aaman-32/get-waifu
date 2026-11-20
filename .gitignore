@@ -167,4 +167,5 @@ ios/build/
 ios/DerivedData/
 other/
 images/
+images.json
 .wrangler

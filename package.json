@@ -4,10 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "author": "Cyan+",
-  "urls": {
-    "documentation": "",
-    "api": "https://waifu-api-031n.onrender.com"
-  },
+  "baseUrl": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
