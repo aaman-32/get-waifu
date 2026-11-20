@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Get Waifu!</string>
-    <string name="title_activity_main">Get Waifu!</string>
-    <string name="package_name">com.halo.getwaifu.app</string>
-    <string name="custom_url_scheme">com.halo.getwaifu.app</string>
-</resources>

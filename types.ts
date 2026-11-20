@@ -14,7 +14,7 @@ export interface imageMetadata {
   preview: string;
   url: string;
   size: number;
-  animated: boolean
+  animated: boolean;
 }
 
 export interface responseData {
